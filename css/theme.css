@@ -147,10 +147,10 @@ body,body.ui-overlay-a{
 	background-image:none;
 	background-repeat:no-repeat;
 	background-size:cover;	
-	background: linear-gradient(left , rgb(103, 172, 123) 5% , transparent 9% , transparent 18% , transparent 52% , transparent 72% , rgb(108, 181, 222) 93% , rgb(98, 228, 233) 99% , rgb(92, 248, 242) 99%);
-background: -o-linear-gradient(left , rgb(103, 172, 123) 5% , transparent 9% , transparent 18% , transparent 52% , transparent 72% , rgb(108, 181, 222) 93% , rgb(98, 228, 233) 99% , rgb(92, 248, 242) 99%);
-background: -ms-linear-gradient(left , rgb(103, 172, 123) 5% , transparent 9% , transparent 18% , transparent 52% , transparent 72% , rgb(108, 181, 222) 93% , rgb(98, 228, 233) 99% , rgb(92, 248, 242) 99%);
-background: -moz-linear-gradient(left , rgb(103, 172, 123) 5% , transparent 9% , transparent 18% , transparent 52% , transparent 72% , rgb(108, 181, 222) 93% , rgb(98, 228, 233) 99% , rgb(92, 248, 242) 99%);
-background: -webkit-linear-gradient(left , rgb(103, 172, 123) 5% , transparent 9% , transparent 18% , transparent 52% , transparent 72% , rgb(108, 181, 222) 93% , rgb(98, 228, 233) 99% , rgb(92, 248, 242) 99%);
+	background: linear-gradient(left , rgb(103, 172, 123) 5% , rgb(39, 165, 236) 44% , rgb(98, 228, 233) 99% , rgb(92, 248, 242) 99%);
+background: -o-linear-gradient(left , rgb(103, 172, 123) 5% , rgb(39, 165, 236) 44% , rgb(98, 228, 233) 99% , rgb(92, 248, 242) 99%);
+background: -ms-linear-gradient(left , rgb(103, 172, 123) 5% , rgb(39, 165, 236) 44% , rgb(98, 228, 233) 99% , rgb(92, 248, 242) 99%);
+background: -moz-linear-gradient(left , rgb(103, 172, 123) 5% , rgb(39, 165, 236) 44% , rgb(98, 228, 233) 99% , rgb(92, 248, 242) 99%);
+background: -webkit-linear-gradient(left , rgb(103, 172, 123) 5% , rgb(39, 165, 236) 44% , rgb(98, 228, 233) 99% , rgb(92, 248, 242) 99%);
 }
 
